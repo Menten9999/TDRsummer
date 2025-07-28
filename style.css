@@ -1,0 +1,308 @@
+h1{
+    color:#004398;
+    font-family:"游明朝";
+    background-color: #f5fcff;
+    margin-bottom: 0px;
+    margin-top: 0px;
+}
+.header1{
+    font-family: "Arial";
+    position:sticky;
+    top:0;
+    background-color:#f5fcff;
+    width:100%;
+    z-index:999;
+    height:30px;
+    font-size:25px;
+    margin-top: 0px;
+}
+.aboutheader:hover{
+    color:#000000;
+    font-family: "Arial";
+    
+}
+
+.aboutheader:visited{
+    color:#004398;
+    font-family:"Arial";
+
+}
+.aboutheader{
+    color:#004398;
+    font-family: "Arial";
+}
+h3{
+   font-family:"游明朝","Arial";
+   color:#000000;
+   
+}
+h2{
+    font-family:"游明朝","Arial";
+    color:#4db7b7;
+    font-size: 25px;
+}
+.TDS{
+    font-family:"游明朝","Arial";
+    color:#4db7b7;
+}
+.Ambassador{
+    font-family:"游明朝","Arial";
+    color:#c99ba3;
+}
+.before{
+    font-family:"游明朝","Arial";
+    color:#000000;
+
+}
+.app{
+    color:#004398;
+    font-family:"游明朝";
+
+}
+.app:hover{
+    color:#004398;
+    font-family:"游明朝";
+}
+.app:visited{
+    color:#004398;
+    font-family:"游明朝";
+}
+.Ambassadorweb:hover{
+color:#c99ba3;
+font-family: "游明朝";
+}
+.Ambassadorweb:visited{
+color:#c99ba3;
+font-family: "游明朝";
+}
+.Ambassadorweb{
+color:#c99ba3;
+font-family:"游明朝";
+}
+.resort{
+color:#004398;
+font-family:"游明朝";
+}
+.resort:hover{
+color:#004398;
+font-family:"游明朝";
+}
+.resort:visited{
+color:#004398;
+font-family:"游明朝";
+}
+.train{
+color:#d7c447;
+font-family: "游明朝";
+
+}
+.train:hover{
+color:#d7c447;
+font-family:"游明朝";
+}
+.train:visited{
+color:#d7c447;
+font-family: "游明朝";
+}
+.resortline{
+color:#004398;
+font-family: "游明朝";
+
+}
+.resortline:hover{
+color:#004398;
+font-family: "游明朝";
+
+}
+.resort:visited{
+color:#004398;
+font-family: "游明朝";
+
+}
+.access{
+color:#004398;
+font-family: "游明朝";
+}
+.access:hover{
+color:#004398;
+font-family: "游明朝";
+}
+.access:visited{
+color:#004398;
+font-family: "游明朝";
+}
+.resortcruiser{
+color:#004398;
+font-family: "游明朝";
+}
+.resortcruiser:hover{
+color:#004398;
+font-family: "游明朝";
+}
+.resortcruiser:visited{
+color:#004398;
+font-family: "游明朝";
+}
+.onlinecheckin{
+color:#004398;
+font-family: "游明朝";
+}
+.onlinecheckin:hover{
+color:#004398;
+font-family: "游明朝";
+}
+.onlinecheckin:visited{
+color:#004398;
+font-family: "游明朝";
+}
+.timetable{
+color:#004398;
+font-family: "游明朝";
+margin-left: 5px;
+}
+.timetable:hover{
+color:#004398;
+font-family: "游明朝";
+}
+.timetable:visited{
+color:#004398;
+font-family: "游明朝";
+}
+.DPAS{
+color:#004398;
+font-family: "游明朝";
+}
+table{
+background-color: #f5fcff;
+color:#004398;
+font-family: "游明朝";
+border-top:solid 1px;
+border-right:solid 1px;
+border-left:solid 1px;
+}
+th{
+border-bottom:solid 1px;
+border-right:solid 1px;
+}
+.COTE{
+border-bottom:solid 1px;
+}
+.DPA2500S{
+border-bottom:solid 1px;
+}
+.DPA1500S{
+border-top:solid 1px;
+}
+.priceDPAS{
+border-bottom:solid 1px;
+}
+.priorityS{
+color:#004398;
+font-family: "游明朝";
+}
+.tt{
+border-bottom:solid 1px;
+}
+.prioritypriceS{
+border-bottom:solid 1px;
+}
+.standbyS{
+color:#004398;
+font-family: "游明朝";
+}
+.pricestandbyS{
+border-bottom: solid 1px;
+}
+.IPS{
+border-bottom: solid 1px;
+}
+.noaccess{
+color:#004398;
+font-family: "游明朝";
+}
+.show{
+color:#004398;
+font-family: "游明朝";
+}
+.show:hover{
+color:#004398;
+font-family: "游明朝";
+}
+.show:visited{
+color:#004398;
+font-family: "游明朝";
+}
+.notinservice{
+border-right:0px;
+}
+h4{
+color:#ef5697;
+font-family: "游明朝";
+font-size: 25px;
+}
+.TDL{
+font-family: "游明朝";
+}
+.TDLURL{
+color:#ef5697;
+font-family: "游明朝";
+}
+.TDLURL:hover{
+color:#ef5697;
+font-family: "游明朝";
+}
+.TDLURL:visited{
+color:#ef5697;
+font-family: "游明朝";
+}
+.detail{
+color:#004398;
+font-family:"游明朝";
+}
+.others{
+color:#004398;
+font-family: "游明朝";
+}
+.FS{
+background-color: #094d66;
+color:#c79f3f;
+font-family: "游明朝";
+font-weight: bold;
+}
+.any{
+color:#000000;
+font-family:"游明朝"
+}
+.TokyoDS{
+color:#4db7b7;
+font-family:"游明朝";
+font-size: 25px;
+}
+.FSH{
+color:#c99ba3;
+font-family:"游明朝";
+}
+.FSH:hover{
+color:#c99ba3;
+font-family:"游明朝";
+}
+.FSH:visited{
+color:#c99ba3;
+font-family:"游明朝";
+}
+.sea{
+color:#4db7b7;
+font-family:"游明朝";
+}
+.sea:hover{
+color:#4db7b7;
+font-family:"游明朝";
+}
+.sea:visited{
+color:#4db7b7;
+font-family:"游明朝";
+}
+.WF{
+    position:relative;
+    left:10%;
+}
